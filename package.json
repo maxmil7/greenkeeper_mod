@@ -1,0 +1,22 @@
+{
+  "name": "@maxmil7/greenkeeper_mod",
+  "version": "0.0.1",
+  "description": "Module for testing greenkeeper",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmil7/greenkeeper_mod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmil7/greenkeeper_mod/issues"
+  },
+  "homepage": "https://github.com/maxmil7/greenkeeper_mod#readme",
+  "dependencies": {
+    "tape": "^4.11.0"
+  }
+}

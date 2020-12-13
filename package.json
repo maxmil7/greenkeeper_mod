@@ -1,6 +1,6 @@
 {
   "name": "@maxmil7/greenkeeper_mod",
-  "version": "1.6.6",
+  "version": "1.12.0",
   "description": "Module for testing greenkeeper",
   "main": "index.js",
   "scripts": {
